@@ -10,13 +10,15 @@ Analysis and Challenges
 
 Analysis of Outcomes Based on Launch Dates
 
-Resources/launch_outcomes.png
+<img width="1040" alt="launch_outcomes" src="https://user-images.githubusercontent.com/104040230/166172064-f8820f2e-4e69-4e48-a030-ca880020d22c.png">
+
 
 To visualize theater outcomes based on launch dates, we created a pivot table showing the number of successful, failed, and canceled campaigns by month based on all the included years in the provided Kickstarter data. We then plotted that information on a line graph to visualize the data and provide the client with useful information about when to best launch her campaign.
 
 Analysis of Outcomes Based on Goals
 
-Resources/goal_outcomes.png
+<img width="993" alt="goal_outcomes" src="https://user-images.githubusercontent.com/104040230/166172007-68e35977-4d2c-4100-82c8-58a8f07c86e9.png">
+
 
 To analyze outcomes based on goals, we focused on the “Play” subcategory and pulled data from Kickstarter detailing how many successful, failed, and canceled campaigns there were based on goal ranges. The raw number of campaigns in each outcome was then converted to a percentage based on the total number of campaigns in a specific goal range, which was then plotted in a line graph to show the correlation between campaign outcomes and goal ranges.
 Outcomes_vs_Goals
